@@ -3,6 +3,6 @@
 </br>
 <h3>Demo演示效果</h3>
 <section>
-<video src="http://7xt4yx.com1.z0.glb.clouddn.com/job_CanyonBunny.mp4"></video>
+<video src="http://7xt4yx.com1.z0.glb.clouddn.com/job_CanyonBunny.ogg"></video>
 </section>
 
